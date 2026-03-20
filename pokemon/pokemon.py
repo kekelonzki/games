@@ -21,7 +21,7 @@ Pokemon4 = Pokemon("Elektro","Eisenschweif",10,"Ruckzuckhieb",10,"Donnerblitz",1
 
 Pokemon5 = Pokemon("Flug","Akrobatik",12,"Nitroladung",12,"Pikser",6,"Dartignis",100)
 
-Pokemon6 = Pokemon("Kampf","",,"",,"",,"Machock",100)
+Pokemon6 = Pokemon("Kampf","Mogelhieb",6,"Fußtritt",10,"",12,"Machock",100)
 
 Pokemon7 = Pokemon("Normal","",,"",,"",,"",100)
 
